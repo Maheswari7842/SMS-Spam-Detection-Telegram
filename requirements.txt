@@ -1,0 +1,9 @@
+scikit-learn==1.5.1
+pandas==2.2.2
+nltk==3.9.1
+pywhatkit==5.4
+twilio==8.0.0
+slack_sdk==3.21.3
+python-telegram-bot==20.0
+Flask==3.0.0
+gunicorn==21.2.0
